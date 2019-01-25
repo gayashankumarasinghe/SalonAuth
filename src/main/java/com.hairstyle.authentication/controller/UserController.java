@@ -1,4 +1,4 @@
-package com.kasthuri.authentication.controller;
+package com.hairstyle.authentication.controller;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.kasthuri.authentication;
+package com.hairstyle.authentication;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
